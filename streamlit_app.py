@@ -11,7 +11,7 @@ st.title("주택 가격 예측 서비스!")
  
 # GitHub Raw 파일 URL과 모델 유형
 
-GITHUB_RAW_URL = "https://github.com/blueoli02/ai_project/raw/refs/heads/main/xgb_model%20(3).pkl"
+GITHUB_RAW_URL = "https://github.com/blueoli02/ai_project/raw/refs/heads/main/xgb_model.pkl"
 #GITHUB_RAW_URL = "https://github.com/blueoli02/ai_project/raw/refs/heads/main/random_forest_model.pkl"
 MODEL_TYPE = "XGBoost"  # "fastai", "scikit-learn Random Forest", or "XGBoost"
 #MODEL_TYPE = "scikit-learn Random Forest"  # "fastai", "scikit-learn Random Forest", or "XGBoost"
