@@ -8,7 +8,7 @@ import numpy as np  # numpy를 import해야 함
 
 # Streamlit 제목
 st.title("주택 가격 예측 서비스!")
-
+ 
 # GitHub Raw 파일 URL과 모델 유형
 #GITHUB_RAW_URL = "https://github.com/blueoli02/ai_project/raw/refs/heads/main/random_forest_model.pkl"
 GITHUB_RAW_URL = "https://github.com/blueoli02/ai_project/raw/refs/heads/main/xgb_model_math.pkl"
